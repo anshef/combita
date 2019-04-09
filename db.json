@@ -257,7 +257,15 @@
         }
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+    {
+      "name": "typicode"
+    },
+    {
+      "name": "typicode1"
+    },
+    {
+      "name": "typicode2"
+    },
+  ]
 }
