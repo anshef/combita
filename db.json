@@ -10,6 +10,8 @@
         "regular_price": "1600",
         "sale_price": "1040",
         "on_sale": true,
+        "in_stock": true,
+        "purchasable": true,
         "dimensions": {
             "length": "",
             "width": "",
@@ -56,6 +58,8 @@
         "regular_price": "1600",
         "sale_price": "1040",
         "on_sale": true,
+        "in_stock": true,
+        "purchasable": true,
         "dimensions": {
             "length": "",
             "width": "",
@@ -102,6 +106,8 @@
         "regular_price": "1600",
         "sale_price": "1040",
         "on_sale": true,
+        "in_stock": true,
+        "purchasable": true,
         "dimensions": {
             "length": "",
             "width": "",
@@ -148,6 +154,7 @@
         "regular_price": "1600",
         "sale_price": "1040",
         "on_sale": true,
+        "purchasable": true,
         "dimensions": {
             "length": "",
             "width": "",
@@ -194,6 +201,8 @@
         "regular_price": "1600",
         "sale_price": "1040",
         "on_sale": true,
+        "in_stock": true,
+        "purchasable": true,
         "dimensions": {
             "length": "",
             "width": "",
@@ -240,6 +249,8 @@
         "regular_price": "1600",
         "sale_price": "1040",
         "on_sale": true,
+        "in_stock": true,
+        "purchasable": true,
         "dimensions": {
             "length": "",
             "width": "",
@@ -286,6 +297,8 @@
         "regular_price": "1600",
         "sale_price": "1040",
         "on_sale": true,
+        "in_stock": true,
+        "purchasable": true,
         "dimensions": {
             "length": "",
             "width": "",
