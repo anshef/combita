@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+Виртуальная json база db.json, выборка
+http://my-json-server.typicode.com/anshef/combita/posts/485
 
 You can use the [editor on GitHub](https://github.com/anshef/combita/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
