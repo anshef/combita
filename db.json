@@ -257,15 +257,21 @@
         }
     }
   ],
-  "profile": [
+ "posts": [
     {
-      "name": "typicode"
-    },
+      "id": 1,
+      "title": "hello"
+    }
     {
-      "name": "typicode1"
-    },
+      "id": 1,
+      "title": "hello"
+    }
     {
-      "name": "typicode2"
-    },
-  ]
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
